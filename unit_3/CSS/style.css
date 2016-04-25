@@ -1,22 +1,15 @@
-<style>
-body{
-	background-image: url(http://imgur.com/gallery/Sxr18o3)
-	t
+title{
+	font-family: "Times";
+	font-size: 20px;
+	text-align: center;
+	text-decoration-color: #0000FF;
 }
-h1{
-	background-color: #000000
+body{
+	background-image: "http://imgur.com/gallery/9Yw2SNu.jpg";
+	font-family: "Times";
+	font-size:15px;
+	font-weight:bold;
+	text-align:center;
+	text-decoration-color: #0000FF;
 
 }
-p
-ul{
-	text-decoration: underline;
-}
-li{
-	font-weight: bold;
-}
-img
-#slogan{
-	font-style: italic;
-	font-family: "Times New Roman";
-}
-</style>
