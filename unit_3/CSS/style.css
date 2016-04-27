@@ -1,3 +1,6 @@
+div{	
+	background-image: url("http://www.sanfrancisco.travel/sites/sftraveldev.prod.acquia-sites.com/files/SanFrancisco_0.jpg");
+	background-repeat: no-repeat;}
 title{
 	font-family: "Times";
 	font-size: 20px;
@@ -5,8 +8,6 @@ title{
 	text-decoration-color: #0000FF;
 }
 body{
-	background-image: url("http://www.sanfrancisco.travel/sites/sftraveldev.prod.acquia-sites.com/files/SanFrancisco_0.jpg");
-	background-repeat: no-repeat;
 	font-family: "Times";
 	font-size:15px;
 	font-weight:bold;
