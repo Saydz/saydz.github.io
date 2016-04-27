@@ -1,17 +1,12 @@
 div{	
 	background-image: url("http://www.sanfrancisco.travel/sites/sftraveldev.prod.acquia-sites.com/files/SanFrancisco_0.jpg");
-	font-color: white;}
-title{
-	font-family: "Times";
+	font-color: white;
+font-family: "Times";
 	font-size: 20px;
 	text-align: center;
-	
-}
-body{
-	font-family: "Times";
-	font-size:15px;
 	font-weight:bold;
 	text-align:center;
-	text-decoration-color: #0000FF;
-
-}
+	}
+	title{
+		font-size: 30px;
+	}
