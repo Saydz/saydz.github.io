@@ -16,6 +16,7 @@ p{
 	font-family: 'Comfortaa';
 	text-align: center;
 	color: #f2b398;
+	background-color: #ffffff;
 }
 h1
 {font-size: 30px;
@@ -24,14 +25,15 @@ font-weight: normal;
 color: 	#778fa9;
 font-style: italic;
 text-align: center;
-outline-color: #ffffff}
+background-color: #ffffff;}
 
 h2
 {font-size: 30px;
 font-family: 'Oswald';
 font-weight: bold;
 color: #f2b398;
-text-align: center;}
+text-align: center;
+background-color: #ffffff;}
 
 ul{
 	text-align: center;
