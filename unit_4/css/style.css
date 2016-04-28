@@ -17,8 +17,8 @@ p{
 	text-align: center;
 	color: #f2b398;
 	background-color: #ffffff;
-	margin-right: 60px;
-	margin-left: 60px;
+	margin-right: 160px;
+	margin-left: 160px;
 }
 h1
 {font-size: 30px;
@@ -28,8 +28,8 @@ color: 	#778fa9;
 font-style: italic;
 text-align: center;
 background-color: #ffffff;
-margin-left: 50px;
-margin-right: 50px;}
+margin-left: 150px;
+margin-right: 150px;}
 
 h2
 {font-size: 30px;
@@ -38,13 +38,12 @@ font-weight: bold;
 color: #f2b398;
 text-align: center;
 background-color: #ffffff;
-margin-left: 50px;
-margin-right: 50px;
+margin-left: 150px;
+margin-right: 150px;
 }
 
-ul{
+ul li{
 	text-align: center;
-	display: inline-flex;
-	list-style: square;
+display:inline;
 	color: #f2b398;
 }
