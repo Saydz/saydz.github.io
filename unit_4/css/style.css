@@ -17,6 +17,8 @@ p{
 	text-align: center;
 	color: #f2b398;
 	background-color: #ffffff;
+	margin-right: 60px;
+	margin-left: 60px;
 }
 h1
 {font-size: 30px;
@@ -43,4 +45,6 @@ margin-right: 50px;
 ul{
 	text-align: center;
 	display: inline-flex;
+	list-style: square;
+	color: #f2b398;
 }
