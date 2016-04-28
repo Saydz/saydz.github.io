@@ -26,8 +26,8 @@ color: 	#778fa9;
 font-style: italic;
 text-align: center;
 background-color: #ffffff;
-margin-left: 20px;
-margin-right: 20px;}
+margin-left: 50px;
+margin-right: 50px;}
 
 h2
 {font-size: 30px;
@@ -36,11 +36,11 @@ font-weight: bold;
 color: #f2b398;
 text-align: center;
 background-color: #ffffff;
-margin-left: 20px;
-margin-right: 20px;
+margin-left: 50px;
+margin-right: 50px;
 }
 
 ul{
 	text-align: center;
-	display:inline-block;
+	display: inline-flex;
 }
