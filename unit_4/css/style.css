@@ -1,8 +1,9 @@
-
+@import url(https://fonts.googleapis.com/css?family=Comfortaa);
+@import url(https://fonts.googleapis.com/css?family=Bree+Serif);
 
 title
 {font-size: 30px;
-font-family: serif;
+font-family: 'Comfortaa';
 text-align: center;
 color: #ffffff;
 }
@@ -11,15 +12,16 @@ body
 }
 p{
 	font-size: 40px;
-	font-family: serif;
+	font-family: 'Comfortaa';
 	text-align: center;
 	color: #f2b398;
 }
 h1
 {font-size: 30px;
-font-family: sans-serif;
+font-family: 'Bree+Serif';
 font-weight: normal;
-color: #f2b398;
+color: 	#778fa9;
+font-style: italic;
 text-align: center;}
 
 h2
