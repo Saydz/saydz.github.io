@@ -1,0 +1,27 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald);
+@import url(https://fonts.googleapis.com/css?family=Merriweather:900);
+@import url(https://fonts.googleapis.com/css?family=Hind);
+
+
+body{
+	text-align: center;
+	background-image: url("<a href="http://imgur.com/rv6DYWa"><img src="http://i.imgur.com/rv6DYWa.jpg?1" title="source: imgur.com" /></a>");
+}
+head{
+	font-family: Cinzel+Decorative:400,700;
+	font-size: 50px;
+	color: white;
+}
+h1{
+	font-family: Oswald;
+	font-size: 25px;
+	color:white;
+}
+h2{font-family: Merriweather:900;
+	font-size: 25em;
+	color:white;
+}
+p{font-family: Hind;
+	font-size: 20px;
+	color:white;
+}
