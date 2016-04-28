@@ -1,15 +1,14 @@
 
 
-body{text-align: center;
-background-image: url("http://imgur.com/gallery/YbBBCZE.jpg");
-}
-
 title
 {font-size: 30px;
 font-family: serif;
 text-align: center;
-color: #ffffff;}
-
+color: #ffffff;
+}
+body
+{background-image: url(http://i.imgur.com/YbBBCZE.jpg);
+}
 h1
 {font-size: 15px;
 font-family: sans-serif;
