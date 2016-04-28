@@ -9,18 +9,25 @@ color: #ffffff;
 body
 {background-image: url(http://i.imgur.com/YbBBCZE.jpg);
 }
+p{
+	font-size: 40px;
+	font-family: serif;
+	text-align: center;
+	color:#778fa9;
+}
 h1
-{font-size: 15px;
+{font-size: 30px;
 font-family: sans-serif;
 font-weight: normal;
-color: #dbb658;
-}
+color: #778fa9;
+text-align: center;}
 
 h2
-{font-size: 14px;
+{font-size: 30px;
 font-family: serif;
 font-weight: bold;
-color: #dbb658;}
+color: #778fa9;
+text-align: center;}
 
 ul{
 	text-align: center;
