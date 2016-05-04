@@ -9,14 +9,12 @@ text-align: center;
 color: #ffffff;
 }
 body
-{background-image:url("//imgur.com/tIP3Dl5");
-}
+{background-image:url("http://imgur.com/tIP3Dl5")
 p{
 	font-size: 40px;
 	font-family: 'Comfortaa';
 	text-align: center;
 	color: #f2b398;
-	background-color: #ffffff;
 	margin-right: 260px;
 	margin-left: 260px;
 }
@@ -27,7 +25,6 @@ font-weight: normal;
 color: 	#778fa9;
 font-style: italic;
 text-align: center;
-background-color: #ffffff;
 margin-left: 250px;
 margin-right: 250px;}
 
@@ -37,7 +34,7 @@ font-family: 'Oswald';
 font-weight: bold;
 color: #f2b398;
 text-align: center;
-background-color: #ffffff;
+
 margin-left: 250px;
 margin-right: 250px;
 }
