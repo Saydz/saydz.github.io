@@ -1,20 +1,29 @@
 body{
 	font-family: "Times";
 	text-align:center;
+	background-image: url("http://i.imgur.com/rv6DYWa.jpg?1");
+	background-position:center;
+	background-size: 50%;
+
 }
 h1{
 	font-size:30px;
-	color: #ffffff;
+	color: #e87878;
+	background:rgba(255,255,255,.5);
+	margin:30px;
 }
 h2{
 	font-size: 20px;
-	color: #ffffff;
+	color:#e87878;
+	background:rgba(255,255,255,.5);
+	margin:30px;
 }
 h3{font-size: 40px;
-color:#ffffff;
+color:#e87878;
+background:rgba(255,255,255,.5);
 }
-div{
-	background: #000000;
+p{
+	background: rgba(255,255,255,.5)
 	padding:10px;
 	margin:200px;
 }
