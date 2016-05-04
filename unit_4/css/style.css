@@ -30,7 +30,7 @@ h1
 {font-size: 30px;
 font-family: 'Bree+Serif';
 font-weight: normal;
-color: 	#778fa9;
+color: 	#f2b398;
 font-style: italic;
 text-align: center;
 margin-left: 250px;
@@ -45,11 +45,17 @@ text-align: center;
 
 margin-left: 250px;
 margin-right: 250px;
+border-bottom: solid #f2b398;
 }
 
 ul li{
-	text-align: center;
-display:inline;
+	list-style-position: center;
+	display:inline;
 	color: #f2b398;
-	margin-left: 200px;
+	padding: 20px 20px 20px 20px;
+}
+img{
+	text-align: center;
+	max-width:20px
+	max-height:20px;
 }
