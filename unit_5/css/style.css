@@ -1,0 +1,90 @@
+@import url(https://fonts.googleapis.com/css?family=Comfortaa);
+@import url(https://fonts.googleapis.com/css?family=Bree+Serif);
+@import url(https://fonts.googleapis.com/css?family=Oswald);
+
+title
+{font-size: 30px;
+font-family: 'Comfortaa';
+text-align: center;
+color: #ffffff;
+}
+body
+{background:white;
+	align-content: center;
+}
+
+header{
+	font-size: 50px;
+	font-family: 'Bree+Serif';
+	text-align: center;
+	color: #f2b398;
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+article{
+	background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+
+}
+aside{
+	background-color: #FFC675;
+    border: 1px black solid;
+    padding: 20px;
+}
+p{
+	font-size: 40px;
+	font-family: 'Comfortaa';
+	text-align: center;
+	color: #778fa9;
+	margin-right: 260px;
+	margin-left: 260px;
+}
+h1
+{font-size: 30px;
+font-family: 'Bree+Serif';
+font-weight: normal;
+color: 	#f2b398;
+font-style: italic;
+text-align: center;
+margin-left: 250px;
+margin-right: 250px;}
+
+h2
+{font-size: 30px;
+font-family: 'Oswald';
+font-weight: bold;
+color: #f2b398;
+text-align: center;
+
+margin-left: 250px;
+margin-right: 250px;
+border-bottom: solid #f2b398;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #f2b398;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    margin-left: 180px;
+}
+img{
+    display: block;
+    margin: 0 auto;
+    max-height:300px;
+}
