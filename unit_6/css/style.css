@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Comfortaa);
 @import url(https://fonts.googleapis.com/css?family=Bree+Serif);
 @import url(https://fonts.googleapis.com/css?family=Oswald);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed);
 
 title
 {font-size: 30px;
@@ -21,7 +22,7 @@ header{
 }
 
 aside{
-	background-color: #FFC675;
+	background-color: #ffffff
     border: 1px black solid;
     padding: 20px;
     float:right;
@@ -35,8 +36,8 @@ article{
 }
 
 p{
-	font-size: 40px;
-	font-family: 'Comfortaa';
+	font-size: 30px;
+	font-family:'Roboto+Condensed';
 	text-align: center;
 	color: #778fa9;
 	margin-right: 260px;
