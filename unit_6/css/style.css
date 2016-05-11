@@ -3,79 +3,44 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed);
 
-title
-{font-size: 30px;
-font-family: 'Comfortaa';
-text-align: center;
-color: #ffffff;
-}
-
 body{
-	align-content: center;
+	text-align: center;
+	background:white;
 }
 
 header{
-	font-size: 50px;
-	font-family: 'Bree+Serif';
-	text-align: center;
-	color: #f2b398;
+	font-family:'Oswald';
+	font-size: 6em;
 }
 
-aside{
-	background-color: #ffffff
-    border: 1px black solid;
-    padding: 20px;
-    float:right;
-}
 
-article{
-	background-color: #ffffff;
-    border: 1px black solid;
-    padding: 20px;
-    float:left;
+h1{
+	font-family: 'Comfortaa'
+	font-size:7em;
 }
 
 p{
-	font-size: 30px;
-	font-family:'Roboto+Condensed';
-	text-align: center;
-	color: #778fa9;
-	margin-right: 260px;
-	margin-left: 260px;
+	font-family: 'Roboto+Condensed';
+	font-size: 4em;
 }
 
-h1
-{font-size: 30px;
-font-family: 'Bree+Serif';
-font-weight: normal;
-color: 	#f2b398;
-font-style: italic;
-text-align: center;
-margin-left: 250px;
-margin-right: 250px;
+
+aside{
+	float:right;
 }
 
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-}
-
-li {
-    float: left;
-}
-
-li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    margin-left: 180px;
-}
 img{
-    display: block;
-    margin: 0 auto;
-    max-height:300px;
+	float:left;
 }
+
+footer{
+	background-color: #4d3848;
+}
+
+#about[]
+
+ul{
+	list-style-type: none;
+	float:left;
+}
+
