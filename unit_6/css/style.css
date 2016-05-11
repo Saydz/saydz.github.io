@@ -21,12 +21,7 @@ h1{
 
 p{
 	font-family: 'Roboto+Condensed';
-	font-size: 4em;
-}
-
-
-aside{
-	float:right;
+	font-size: 40px;
 }
 
 img{
@@ -37,10 +32,41 @@ footer{
 	background-color: #4d3848;
 }
 
-#about[]
+
 
 ul{
 	list-style-type: none;
 	float:left;
+}
+
+#two_column {
+    background-color: #c09bb8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#left {
+    background-color: #805d78;
+    border: 1px black solid;
+    padding: 20px;
+    float:left;
+    width:30%;
+}
+
+#right {
+    background-color: #4d3848;
+    border: 1px black solid;
+    padding: 20px;
+    float:right;
+    width:62%;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
 }
 
