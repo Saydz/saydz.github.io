@@ -1,0 +1,72 @@
+@import url(https://fonts.googleapis.com/css?family=Comfortaa);
+@import url(https://fonts.googleapis.com/css?family=Bree+Serif);
+@import url(https://fonts.googleapis.com/css?family=Oswald);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Condensed);
+
+body{
+	text-align: center;
+	background:white;
+}
+
+header{
+	font-family:'Oswald';
+	font-size: 6em;
+}
+
+
+h1{
+	font-family: 'Comfortaa'
+	font-size:7em;
+}
+
+p{
+	font-family: 'Roboto+Condensed';
+	font-size: 40px;
+}
+
+img{
+	float:left;
+}
+
+footer{
+	background-color: #4d3848;
+}
+
+
+
+ul{
+	list-style-type: none;
+	float:left;
+}
+
+#two_column {
+    background-color: #c09bb8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#left {
+    background-color: #805d78;
+    border: 1px black solid;
+    padding: 20px;
+    float:left;
+    width:30%;
+}
+
+#right {
+    background-color: #4d3848;
+    border: 1px black solid;
+    padding: 20px;
+    float:right;
+    width:62%;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
