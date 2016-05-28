@@ -1,8 +1,21 @@
 body{
 	background-color: #610041;
+	color:#ffffff;
 }
 
-h1, p {
+h1, h2, h3, ul {
 	color: #ffffff;
+	text-align: center;
 }
 
+ #slogan {
+ 	font-style: italic;
+ 	background-color: #000000;
+ 	text-align: center;
+ }
+
+p{
+	color: #ffffff;
+	background-image: url("http://i.imgur.com/Ka4gukl.jpg?1");
+	text-align: center;
+}
