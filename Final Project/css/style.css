@@ -8,12 +8,12 @@ body{
 	background-color: #610041;
 	color:#ffffff;
 	text-align: center;
+	font-family: "Amatic+SC';
 }
 
 h1, h2, h3, ul {
 	color: #ffffff;
 	text-align: center;
-	font-family:'Amatic+SC';
 }
 
 ul{
@@ -24,7 +24,6 @@ ul{
  	font-style: italic;
  	background-color: #000000;
  	text-align: center;
- 	font-family:'Montserrat';
  }
 
 p{
