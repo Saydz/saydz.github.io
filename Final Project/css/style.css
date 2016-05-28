@@ -8,12 +8,13 @@ body{
 	background-color: #610041;
 	color:#ffffff;
 	text-align: center;
-	font-family: 'Amatic SC', cursive;
+	
 }
 
 h1, h2, h3, ul {
 	color: #ffffff;
 	text-align: center;
+	font-family: 'Amatic SC', cursive;
 }
 
 ul{
@@ -29,6 +30,7 @@ ul{
 p{
 	color: #ffffff;
 	text-align: center;
+	font-family: 'Amatic SC', cursive;
 }
 
 img{
