@@ -40,31 +40,31 @@ img{
 main{
 	background-color: #ff9999;
 	border: 1px white solid;
-	padding: 20px;
+	padding: 20%;
 }
 
 aside{
 	background-color: #9999ff
 	border: 1px white solid;
-	padding: 20px;
+	padding: 20%;
 }
 
 footer{
 	background-color: #ff99ff;
 	border: 1px white solid;
-	padding: 20px;
+	padding: 20%;
 }
 
 #two_column {
     background-color: #FFB7CF;
     border: 1px black solid;
-    padding: 20px;
+    padding: 20%;
 }
 
 #left {
     background-color: #E582A2;
     border: 1px black solid;
-    padding: 20px;
+    padding: 20%;
     float: left;
     width: 30%;
 }
@@ -72,7 +72,17 @@ footer{
 #right {
     background-color: #E55B88;
     border: 1px black solid;
-    padding: 20px;
+    padding: 20%;
     float: right;
     width: 62%;
 }
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
