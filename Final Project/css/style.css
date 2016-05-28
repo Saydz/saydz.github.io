@@ -7,6 +7,7 @@
 body{
 	background-color: #610041;
 	color:#ffffff;
+	text-align: center;
 }
 
 h1, h2, h3, ul {
@@ -34,4 +35,23 @@ p{
 
 img{
 	align-content: center;
+}
+
+main{
+	background-color: #ff9999;
+	border: 1px white solid;
+	padding: 20px;
+}
+
+aside{
+	background-color: #9999ff
+	border: 1px white solid;
+	padding: 20px;
+}
+
+footer{
+	background-color: #ff99ff;
+	border: 1px white solid;
+	padding: 20px;
+}
 }
