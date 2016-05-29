@@ -81,7 +81,7 @@ footer{
     visibility: hidden;
     display: block;
     font-size: 0;
-    content: " ";
+    content: 0;
     clear: both;
     height: 0;
 }
